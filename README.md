@@ -1,1 +1,1 @@
-# summer-school-day-6
+# Weather-extension
